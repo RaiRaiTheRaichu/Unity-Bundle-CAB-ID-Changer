@@ -20,7 +20,7 @@ jobs:
         pip install --upgrade pyinstaller
     - name: Build executable
       run: |
-        pyinstaller --F CAB_ID_Changer.py
+        pyinstaller --onefile -w CAB_ID_Changer.py
     - name: Upload artifacts
       uses: actions/upload-artifact@v3
       with:
