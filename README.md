@@ -25,4 +25,4 @@ Alternatively, you can run the script through the command line interface with th
 
 ### Contact ###
 
-* RaiRaiTheRaichu#1005 on Discord.
+* RaiRaiTheRaichu on Discord.
